@@ -17,3 +17,4 @@ Modules:
 - tagbar
 - vim-colors-solarized
 - vim-fugitive
+- surround
